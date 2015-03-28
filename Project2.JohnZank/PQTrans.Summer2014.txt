@@ -1,0 +1,6 @@
+I     Trafalgar   TTTTT     Western_Europe     2     11111
+R					                           2
+I     Lapland     LLLLL     Northern_Europe    1     22222
+I     Saar        SSSSS     Western_Europe     2     33333
+I     Yugoslavia  Belgrade  Central_Europe     4     44444
+R                                              2

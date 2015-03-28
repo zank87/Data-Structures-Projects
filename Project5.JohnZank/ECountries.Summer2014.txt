@@ -1,0 +1,13 @@
+D,Germany
+D,Switzerland
+A,Denmark
+D,Italy
+D,Russia
+A,FFF
+D,Italy
+A,II
+A,FFF
+A,Thailand
+A,FFF
+A,Israel
+D,Sweden
